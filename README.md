@@ -1,6 +1,6 @@
 # Weather-Site
+I built Weather Site using HTML, CSS, and JavaScript for the frontend and Express and Node.js for the Backend.
 This project allows you to check the weather forecast for any city.
-Weather Site using HTML, CSS, and JavaScript for the frontend and Express and Node.js for the Backend
 
 
 ## How to Run
